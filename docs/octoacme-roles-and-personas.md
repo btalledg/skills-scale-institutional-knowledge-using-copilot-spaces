@@ -75,7 +75,95 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Release Manager
+
+### Role Summary
+Release Managers coordinate and oversee all activities necessary for a successful software release. They ensure documentation, deployment readiness, and facilitate go/no-go decisions.
+
+### Responsibilities
+- Plan and schedule releases with all stakeholders
+- Ensure release criteria and documentation are met
+- Lead go/no-go meetings and issue release communications
+- Coordinate with Developers and Project Managers during deployments
+- Track release metrics and retrospectives
+
+### Goals
+- Reliable, smooth, and predictable releases
+- Minimize release-related risks and unplanned surprises
+- Ensure all teams are informed and prepared for releases
+
+### Interaction Points
+- Works with Developers for handover and deployment tasks
+- Collaborates with Project Managers and Product Managers for planning and communication
+- Notifies Stakeholder Liaison and Communications Lead before and after releases
+
+---
+
+## Risk Coordinator
+
+### Role Summary
+The Risk Coordinator maintains the risk register, conducts regular risk reviews, and escalates issues according to process. They ensure proactive risk management throughout the project lifecycle.
+
+### Responsibilities
+- Maintain and update the project risk register
+- Facilitate regular risk review meetings with leads
+- Work with all teams to identify, track, and mitigate risks
+- Escalate critical risks to Project Managers and relevant stakeholders
+- Document all risk decisions and mitigation plans
+
+### Goals
+- Minimize the likelihood and impact of project risks
+- Maintain visibility of risk status for all stakeholders
+
+### Interaction Points
+- Works closely with Project Managers and Developers for risk identification and response
+- Coordinates with Stakeholder Liaison to communicate top risks to business sponsors
+
+---
+
+## Communications Lead
+
+### Role Summary
+The Communications Lead owns project communications, including status updates and alignment briefs for internal and external stakeholders.
+
+### Responsibilities
+- Draft and distribute regular project status reports
+- Prepare major announcements and stakeholder updates
+- Develop communication templates and best practices
+- Gather feedback from project participants
+- Support Stakeholder Liaison in responding to sponsor/executive inquiries
+
+### Goals
+- Ensure stakeholders are well-informed and aligned
+- Promote transparency and trust across the project team
+
+### Interaction Points
+- Works closely with all leads for content inputs and updates
+- Supports Stakeholder Liaison and Release Manager with key communications
+
+---
+
+## Stakeholder Liaison
+
+### Role Summary
+The Stakeholder Liaison is the main point of contact for project sponsors and key business stakeholders, ensuring their needs are understood and incorporated into project decisions.
+
+### Responsibilities
+- Establish strong relationships with sponsors and key stakeholders
+- Gather and communicate stakeholder feedback to the team
+- Ensure concerns, expectations, and priorities are shared with Project/Product Managers
+- Coordinate stakeholder involvement in reviews, demos, and launches
+
+### Goals
+- High stakeholder satisfaction
+- Ensure business priorities are reflected in project outcomes
+
+### Interaction Points
+- Frequently collaborates with Product and Project Managers
+- Relays information to Risk Coordinator and Communications Lead as needed
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
